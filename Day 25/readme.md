@@ -1,4 +1,4 @@
-Hello, everyone this project is a simple python based project based on Naming the 50 states of US.
+***Hello, everyone this project is a simple python based project based on Naming the 50 states of US.***
 ***
 Installing the project:-
 run the file on your cmd terminal by the `python3\main.py`
